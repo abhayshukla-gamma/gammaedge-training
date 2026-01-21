@@ -7,3 +7,5 @@
 - HTTPS importance and backend trust boundaries
 - Inspect API calls in browser DevTools
 - Call public APIs using Postman
+- Inspect API calls in browser DevTools
+- Call public APIs using Postman
