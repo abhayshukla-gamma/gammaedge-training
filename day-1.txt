@@ -1,0 +1,9 @@
+- Frontend vs Backend responsibilities
+- Client–Server architecture
+- How the web works: DNS → HTTP → Response
+- HTTP methods and status codes
+- REST API fundamentals
+- API versioning basics
+- HTTPS importance and backend trust boundaries
+- Inspect API calls in browser DevTools
+- Call public APIs using Postman
