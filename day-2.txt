@@ -1,0 +1,37 @@
+- Terminal fundamentals and Linux basics
+- File and folder operations
+- Process and port management
+- Environment variables and PATH
+- Package managers (pip, npm)
+- Git fundamentals and version control
+
+Terminal learning 
+ # commands 
+
+1.  pwd(present working directory) :- show in which directory you are 
+2.  ls(list)                       :- show all files of that folders
+3.  ls -la                         :- shows hidden files also
+4.  cd                             :- entering into the folders or directory
+5.  mkdir                          :- to create the folders 
+6.  rmdir                          :- to delete the empty directory first come out of that directory than use rmdir directory_name
+7.  touch                          :- to create file in directory first move in directory then touch filename
+8.  echo                           :- to write inside the file ex:- echo "content" > filename
+9.  cat                            :- to sow content in the file 
+10. cp                             :- copy content from one file to another 
+11. mv                             :- change name of directory and file first move out of that file then mv firstname secondname
+12. rm                             :- deletes files from folders 
+13  rm -rf                         :- fore fully remove the directory and all protected files content inside it
+14. rm -r                          :- delete the directories and files inside and not delete the protected ones.
+15. ln                             :- 
+16. grep                           :- grep "word" filename. print all the file lines that contains the word 
+17. ps                             :- write all the process that are running 
+18. wget                           :- download files from web .. wget url
+19. sort                           :- sort the files data 
+20. ps aux                         :- provides more coloums of information like %MEM, %CPU, RSS  
+21  kill -9 pid                    :- kill process running wih pid
+22. lsof -i :3000                  :- write all the process which are running on port 3000 
+
+
+
+
+working of command prompt -- when a user type commands onto the command prompt the commans prompt just take the commands then the shell activate and take commands to the operating system like need some file move to another and perform some operation the  os  will send response like error and succesfull excetution and the loops continues to wait for another commandgit 
