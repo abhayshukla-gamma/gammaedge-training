@@ -115,8 +115,4 @@ print(f"the sum is {sum}")
 
 
 
-# input output bound task 
-# cpu 
-# multithreading 
-# multiprocessing 
-# python is single threaded 
+# 
