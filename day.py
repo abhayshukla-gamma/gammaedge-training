@@ -1,8 +1,8 @@
 # Write a program to swap two variables without using a third variable.
-a = 5
-b = 10
-a, b = b, a
-print(a,b)
+# a = 5
+# b = 10
+# a, b = b, a
+# print(a,b)
 
 # a = a+b  # 15
 # b = a-b  # 5
@@ -88,9 +88,13 @@ print(a,b)
 
 # Check if two strings are anagrams of each other.
 
-str1 = "tea"
-str2 = "eat"
-if(str1.len)
+# `str1 = "potttt"
+# str2 = "eat"
+# if(len(str1) == len(str2) and sorted(str1) == sorted(str2)) :
+#     print("strings are anagram")
+# else :
+#     print("not anagrams") `   
+
 
 
 
@@ -99,19 +103,19 @@ if(str1.len)
 
 # Create a CLI calculator that performs basic arithmetic operations based on user input with input validation.
 
-n = int(input("enter the number of digits  "))
-values = []
-i = 1
-while i <= n :
-    a  = input("enter number ")
-    values.append(a)
-    i += 1
-print(values)    
-sum = 0
-for i in values :
-    i = int(i)
-    sum = i + sum
-print(f"the sum is {sum}")    
+# n = int(input("enter the number of digits  "))
+# values = []
+# i = 1
+# while i <= n :
+#     a  = input("enter number ")
+#     values.append(a)
+#     i += 1
+# print(values)    
+# sum = 0
+# for i in values :
+#     i = int(i)
+#     sum = i + sum
+# print(f"the sum is {sum}")    
 
 
 
